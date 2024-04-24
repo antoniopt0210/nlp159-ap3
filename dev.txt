@@ -1,0 +1,100 @@
+13	adjudicated	0	Relent, sweet Hermia; and, Lysander, yield Thy crazed title to my certain right. 
+303	adjudicated	0	No, sir; she shall not, though you take her part. 
+305	adjudicated	0	'Little' again! nothing but 'low' and 'little!' Why will you suffer her to flout me thus? Let me come to her.
+454	adjudicated	0	'Tide life, 'tide death, I come without delay. 
+411	adjudicated	0	More than to us Wait in your royal walks, your board, your bed! 
+405	adjudicated	0	'Tis strange, my Theseus, that these lovers speak of. 
+315	adjudicated	0	Thou see'st these lovers seek a place to fight: Hie therefore, Robin, overcast the night; The starry welking cover thou anon With drooping fog as black as Acheron; And lead these testy rivals so astray, As one come not within another's way. Like to Lysander sometime frame thy tongue, Then stir Demetrius up with bitter wrong; And sometime rail thou like Demetrius; And from each other look thou lead them thus, Till o'er their brows death-counterfeiting sleep With leaden legs and batty wings doth creep: Then crush this herb into Lysander's eye; Whose liquor hath this virtuous property, To take from thence all error with his might, And make his eyeballs roll with wonted sight. When they next wake, all this derision Shall seem a dream and fruitless vision; And back to Athens shall the lovers wend, With league whose date till death shall never end. Whiles I in this affair do thee employ, I'll to my queen and beg her Indian boy; And then I will her charmed eye release From monster's view, and all things shall be peace. 
+452	adjudicated	11	I kiss the wall's hole, not your lips at all 
+112	adjudicated	4	I'll put a girdle round about the earth In forty minutes.
+321	adjudicated	0	Here, villain! drawn and ready. Where art thou? 
+275	adjudicated	2	Thou canst compel no more than she entreat: Thy threats have no more strength than her weak prayers. Helen, I love thee; by my life, I do: I swear by that which I will lose for thee, To prove him false that says I love thee not. 
+407	adjudicated	1	But all the story of the night told over, And all their minds transfigur'd so together, More witnesseth than fancy's images, And grows to something of great constancy, But, howsoever, strange and admirable. 
+190	adjudicated	0	Must I speak now?
+25	adjudicated	0	Or else it stood upon the choice of friends,— 
+52	adjudicated	0	A very good piece of work, I assure you, and a merry. Now, good Peter Quince, call forth your actors by the scroll. Masters, spread yourselves. 
+414	adjudicated	0	Say, what abridgment have you for this evening? What masque? what music? How shall we beguile The lazy time, if not with some delight? 
+242	adjudicated	0	There is no following her in this fierce vein: Here therefore for awhile I will remain. So sorrow's heaviness doth heavier grow For debt that bankrupt sleep doth sorrow owe; Which now in some slight measure it will pay, If for his tender here I make some stay. 
+276	adjudicated	0	I say I love thee more than he can do.
+272	adjudicated	0	O excellent!
+237	adjudicated	0	Out, dog! out, cur! thou driv'st me past the bounds Of maiden's patience. Hast thou slain him then? Henceforth be never number'd among men! O! once tell true, tell true, e'en for my sake; Durst thou have look'd upon him being awake, And hast thou kill'd him sleeping? O brave touch! Could not a worm, an adder, do so much? An adder did it; for with doubler tongue Than thine, thou serpent, never adder stung. 
+139	adjudicated	0	Be it so, Lysander: find you out a bed, For I upon this bank will rest my head. 
+66	adjudicated	0	Nay, faith, let not me play a woman; I have a beard coming. 
+177	adjudicated	8	A calendar, a calendar! look in the almanack; find out moonshine, find out moonshine. 
+46	adjudicated	1	How happy some o'er other some can be! Through Athens I am thought as fair as she; But what of that? Demetrius thinks not so; He will not know what all but he do know; And as he errs, doting on Hermia's eyes, So I, admiring of his qualities. Things base and vile, holding no quantity, Love can transpose to form and dignity. Love looks not with the eyes, but with the mind, And therefore is wing'd Cupid painted blind. Nor hath Love's mind of any judgment taste; Wings and no eyes figure unheedy haste: And therefore is Love said to be a child, Because in choice he is so oft beguil'd. As waggish boys in game themselves forswear, So the boy Love is perjur'd every where; For ere Demetrius look'd on Hermia's eyne, He hail'd down oaths that he was only mine; And when this hail some heat from Hermia felt, So he dissolv'd, and showers of oaths did melt. I will go tell him of fair Hermia's flight: Then to the wood will he to-morrow night Pursue her; and for this intelligence If I have thanks, it is a dear expense: But herein mean I to enrich my pain, To have his sight thither and back again. 
+461	adjudicated	1	If we imagine no worse of them than they of themselves, they may pass for excellent men. Here come two noble beasts in, a man and a lion. 
+488	adjudicated	0	But stay, O spite! But mark, poor knight, What dreadful dole is here! Eyes, do you see? How can it be? O dainty duck! O dear! Thy mantle good, What! stain'd with blood! Approach, ye Furies fell! O Fates, come, come, Cut thread and thrum; Quail, crush, conclude, and quell! 
+162	adjudicated	0	Peter Quince,— 
+214	adjudicated	0	Hail, mortal! 
+442	adjudicated	0	The wall, methinks, being sensible, should curse again. 
+74	adjudicated	0	Here, Peter Quince. 
+153	adjudicated	1	O! I am out of breath in this fond chase. The more my prayer, the lesser is my grace. Happy is Hermia, wheresoe'er she lies; For she hath blessed and attractive eyes. How came her eyes so bright? Not with salt tears: If so, my eyes are oftener wash'd than hers. No, no, I am as ugly as a bear; For beasts that meet me run away for fear; Therefore no marvel though Demetrius Do, as a monster, fly my presence thus. What wicked and dissembling glass of mine Made me compare with Hermia's sphery eyne? But who is here? Lysander! on the ground! Dead? or asleep? I see no blood, no wound. Lysander, if you live, good sir, awake. 
+408	adjudicated	2	Here come the lovers, full of joy and mirth. 
+75	adjudicated	0	You, Pyramus's father; myself, Thisby's father; Snug, the joiner, you the lion's part: and, I hope, here is a play fitted. 
+350	adjudicated	2	Truly, a peck of provender: I could munch your good dry oats. Methinks I have a great desire to a bottle of hay: good hay, sweet hay, hath no fellow. 
+143	adjudicated	0	Lysander riddles very prettily: Now much beshrew my manners and my pride, If Hermia meant to say Lysander lied. But, gentle friend, for love and courtesy Lie further off; in human modesty, Such separation as may well be said Becomes a virtuous bachelor and a maid, So far be distant; and, good night, sweet friend. Thy love ne'er alter till thy sweet life end! 
+483	adjudicated	0	Well shone, Moon. Truly, the moon shines with a good grace. 
+351	adjudicated	0	I have a venturous fairy that shall seek The squirrel's hoard, and fetch thee thence new nuts. 
+469	adjudicated	1	This lanthorn doth the horned moon present;—
+381	adjudicated	1	My lord, fair Helen told me of their stealth, Of this their purpose hither, to this wood; And I in fury hither follow'd them, Fair Helena in fancy following me. But, my good lord, I wot not by what power,— But by some power it is,—my love to Hermia, Melted as doth the snow, seems to me now As the remembrance of an idle gaud Which in my childhood I did dote upon; And all the faith, the virtue of my heart, The object and the pleasure of mine eye, Is only Helena. To her, my lord, Was I betroth'd ere I saw Hermia: But, like in sickness, did I loathe this food; But, as in health, come to my natural taste, Now do I wish it, love it, long for it, And will for evermore be true to it. 
+458	adjudicated	4	This is the silliest stuff that ever I heard.
+377	adjudicated	0	Pardon, my lord. 
+193	adjudicated	14	'Ninus' tomb,' man. Why, you must not speak that yet; that you answer to Pyramus: you speak all your part at once, cues and all. Pyramus, enter: your cue is past; it is 'never tire.' 
+383	adjudicated	2	These things seem small and undistinguishable, Like far-off mountains turned into clouds. 
+49	adjudicated	0	Here is the scroll of every man's name, which is thought fit, through all Athens, to play in our interlude before the duke and the duchess on his wedding-day at night. 
+18	adjudicated	0	With duty and desire we follow you.
+289	adjudicated	4	What! should I hurt her, strike her, kill her dead? Although I hate her, I'll not harm her so. 
+369	adjudicated	14	I was with Hercules and Cadmus once, When in a wood of Crete they bay'd the bear With hounds of Sparta: never did I hear Such gallant chiding; for, besides the groves, The skies, the fountains, every region near Seem'd all one mutual cry. I never heard So musical a discord, such sweet thunder. 
+211	adjudicated	0	And I.
+459	adjudicated	1	The best in this kind are but shadows, and the worst are no worse, if imagination amend them. 
+137	adjudicated	1	What thou seest when thou dost wake, Do it for thy true-love take; Love and languish for his sake: Be it ounce, or cat, or bear, Pard, or boar with bristled hair, In thy eye that shall appear When thou wak'st, it is thy dear. Wake when some vile thing is near. 
+3	adjudicated	0	Thanks, good Egeus: what's the news with thee? 
+489	adjudicated	0	This passion, and the death of a dear friend, would go near to make a man look sad. 
+40	adjudicated	0	His folly, Helena, is no fault of mine. 
+332	adjudicated	0	Come hither: I am here.
+156	adjudicated	1	Content with Hermia! No: I do repent The tedious minutes I with her have spent. Not Hermia, but Helena I love: Who will not change a raven for a dove? The will of man is by his reason sway'd, And reason says you are the worthier maid. Things growing are not ripe until their season; So I, being young, till now ripe not to reason; And touching now the point of human skill, Reason becomes the marshal to my will, And leads me to your eyes; where I o'erlook Love's stories written in love's richest book. 
+333	adjudicated	0	Nay then, thou mock'st me. Thou shalt buy this dear, If ever I thy face by daylight see: Now, go thy way. Faintness constraineth me To measure out my length on this cold bed: By day's approach look to be visited. 
+48	adjudicated	0	You were best to call them generally, man by man, according to the scrip. 
+168	adjudicated	0	Well, we will have such a prologue, and it shall be written in eight and six. 
+212	adjudicated	0	Where shall we go?
+170	adjudicated	0	Will not the ladies be afeard of the lion?
+464	adjudicated	0	The very best at a beast, my lord, that e'er I saw. 
+192	adjudicated	1	Most radiant Pyramus, most lily-white of hue, Of colour like the red rose on triumphant brier, Most brisky juvenal, and eke most lovely Jew, As true as truest horse that yet would never tire, I'll meet thee, Pyramus, at Ninny's tomb. 
+427	adjudicated	0	So please your Grace, the Prologue is address'd. 
+22	adjudicated	9	O cross! too high to be enthrall'd to low.
+88	adjudicated	0	At the duke's oak we meet.
+133	adjudicated	6	The Fairies sing.
+397	adjudicated	0	You must say, 'paragon:' a paramour is, God bless us! a thing of naught. 
+327	adjudicated	0	Follow my voice: we'll try no manhood here.
+349	adjudicated	4	Or say, sweet love, what thou desir'st to eat. 
+302	adjudicated	0	Be not afraid: she shall not harm thee, Helena. 
+486	adjudicated	0	And so the lion vanished.
+138	adjudicated	0	Fair love, you faint with wandering in the wood; And to speak troth, I have forgot our way: We'll rest us, Hermia, if you think it good, And tarry for the comfort of the day. 
+221	adjudicated	0	Mustard-seed.
+82	adjudicated	0	You can play no part but Pyramus; for Pyramus is a sweet-faced man; a proper man, as one shall see in a summer's day; a most lovely, gentleman-like man; therefore, you must needs play Pyramus. 
+100	adjudicated	1	Then, I must be thy lady; but I know When thou hast stol'n away from fairy land, And in the shape of Corin sat all day, Playing on pipes of corn, and versing love To amorous Phillida. Why art thou here, Come from the furthest steppe of India? But that, forsooth, the bouncing Amazon, Your buskin'd mistress and your warrior love, To Theseus must be wedded, and you come To give their bed joy and prosperity. 
+322	adjudicated	0	I will be with thee straight.
+447	adjudicated	14	Think what thou wilt, I am thy lover's grace; And, like Limander, am I trusty still. 
+77	adjudicated	0	You may do it extempore, for it is nothing but roaring. 
+159	adjudicated	1	To pluck this crawling serpent from my breast. Ay me, for pity! what a dream was here! Lysander, look how I do quake with fear: Methought a serpent eat my heart away, And you sat smiling at his cruel prey. Lysander! what! remov'd?—Lysander! lord! What! out of hearing? gone? no sound, no word? Alack! where are you? speak, an if you hear; Speak, of all loves! I swound almost with fear. No! then I well perceive you are not nigh: Either death or you I'll find immediately. 
+21	adjudicated	1	Ay me! for aught that ever I could read, Could ever hear by tale or history, The course of true love never did run smooth; But, either it was different in blood,— 
+230	adjudicated	14	Stand close: this is the same Athenian.
+33	adjudicated	1	Call you me fair? that fair again unsay. Demetrius loves your fair: O happy fair! Your eyes are lode-stars! and your tongue's sweet air More tuneable than lark to shepherd's ear, When wheat is green, when hawthorn buds appear. Sickness is catching: O! were favour so, Yours would I catch, fair Hermia, ere I go; My ear should catch your voice, my eye your eye, My tongue should catch your tongue's sweet melody. Were the world mine, Demetrius being bated, The rest I'd give to be to you translated. O! teach me how you look, and with what art You sway the motion of Demetrius' heart. 
+480	adjudicated	0	This is old Ninny's tomb. Where is my love?
+191	adjudicated	0	Ay, marry, must you; for you must understand, he goes but to see a noise that he heard, and is to come again. 
+135	adjudicated	0	Weaving spiders come not here; Hence, you long-legg'd spinners, hence! Beetles black, approach not near; Worm nor snail, do no offence. Philomel, with melody, &c. 
+283	adjudicated	1	Why are you grown so rude? what change is this, Sweet love,— 
+260	adjudicated	0	Disparage not the faith thou dost not know, Lest to thy peril thou aby it dear. Look! where thy love comes: yonder is thy dear. 
+247	adjudicated	1	Flower of this purple dye, Hit with Cupid's archery, Sink in apple of his eye. When his love he doth espy, Let her shine as gloriously As the Venus of the sky. When thou wak'st, if she be by, Beg of her for remedy. 
+413	adjudicated	0	Here, mighty Theseus. 
+300	adjudicated	0	What! with Lysander?
+352	adjudicated	4	I had rather have a handful or two of dried pease. But, I pray you, let none of your people stir me: I have an exposition of sleep come upon me. 
+335	adjudicated	1	Yet but three? Come one more; Two of both kinds make up four. Here she comes, curst and sad: Cupid is a knavish lad, Thus to make poor females mad. 
+114	adjudicated	1	I love thee not, therefore pursue me not. Where is Lysander and fair Hermia? The one I'll slay, the other slayeth me. Thou told'st me they were stol'n into this wood; And here am I, and wood within this wood, Because I cannot meet my Hermia. Hence! get thee gone, and follow me no more. 
+370	adjudicated	2	My hounds are bred out of the Spartan kind, So flew'd, so sanded; and their heads are hung With ears that sweep away the morning dew; Crook-knee'd, and dew-lapp'd like Thessalian bulls; Slow in pursuit, but match'd in mouth like bells, Each under each. A cry more tuneable Was never holla'd to, nor cheer'd with horn, In Crete, in Sparta, nor in Thessaly: Judge, when you hear. But, soft! what nymphs are these? 
+362	adjudicated	0	Music, ho! music! such as charmeth sleep. 
+378	adjudicated	0	I pray you all, stand up. I know you two are rival enemies: How comes this gentle concord in the world, That hatred is so far from jealousy, To sleep by hate, and fear no enmity? 
+47	adjudicated	0	Is all our company here?
+265	adjudicated	0	You speak not as you think: it cannot be.
+231	adjudicated	0	This is the woman; but not this the man.
+16	adjudicated	1	I am, my lord, as well deriv'd as he, As well possess'd; my love is more than his; My fortunes every way as fairly rank'd If not with vantage, as Demetrius'; And, which is more than all these boasts can be, I am belov'd of beauteous Hermia. Why should not I then prosecute my right? Demetrius, I'll avouch it to his head, Made love to Nedar's daughter, Helena, And won her soul; and she, sweet lady, dotes, Devoutly dotes, dotes in idolatry, Upon this spotted and inconstant man. 
